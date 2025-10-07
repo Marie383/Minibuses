@@ -8,3 +8,5 @@ Herramienta en **Python/Streamlit** para consultar el **minibús más cercano** 
 ```bash
 python -m pip install -r requirements.txt
 streamlit run app.py
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/<tu-usuario>/<tu-repo>/blob/main/notebooks/Minibus_Consulta_Colab.ipynb)
